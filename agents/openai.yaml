@@ -1,0 +1,4 @@
+interface:
+  display_name: "中文学术论文写作"
+  short_description: "按章节指导中文论文起草、修改和逻辑打磨。"
+  default_prompt: "Use $write-academic-paper 帮我根据研究问题、方法和实验结果起草或修改一段中文学术论文内容。"
